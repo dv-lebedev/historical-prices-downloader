@@ -29,7 +29,7 @@ import os.path
 
 def main():
 
-    destination_path = "C:/Users/Denis_Lebedev/Desktop"
+    destination_path = os.getcwd()
 
     start_date = datetime(2012, 5, 1)
     end_date = datetime(2012, 6, 1)
