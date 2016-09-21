@@ -1,4 +1,4 @@
-# google-quote-downloader
+# historical-prices-downloader
 Little script to download historical prices from Google Finance.
 
 
