@@ -1,9 +1,6 @@
 # historical-prices-downloader
 Little script to download historical prices from Google Finance.
 
-
-Change 'main()' vars as you need and run script.
-
 ```python
 def main():
 
